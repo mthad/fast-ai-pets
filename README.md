@@ -2,7 +2,7 @@
 README
 =======
 ---
-title: Testing
+title: Pet classifier!
 emoji: 🦀
 colorFrom: pink
 colorTo: blue
